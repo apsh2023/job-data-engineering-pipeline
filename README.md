@@ -1,9 +1,4 @@
 # job-data-engineering-pipeline
-Ah, I get you! You want something **more scannable, visually lighter, and friendly to read**—not a wall of text or bullet-heavy points. Basically something people can glance at and “get it” in seconds.
-
-Here’s how I’d reformat your README into a **clean, engaging, GitHub-friendly style**:
-
----
 
 # 🛠️ Job Data Engineering Pipeline
 
