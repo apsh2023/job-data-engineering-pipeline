@@ -11,7 +11,7 @@ All data is ingested via an API (no web scraping), cleaned, and loaded into a SQ
 
 ## 🗂️ Project Structure
 
-```
+
 job-data-engineering-pipeline/
 │
 ├─ .github/workflows   # CI/CD automation
@@ -130,6 +130,7 @@ Diagram (Star Schema)
                     | tag_name          |
                     +-------------------+
 ---
+![Alt text]("C:\project\job-data-engineering-pipeline\image-project.png")
 ```
 ## 👤 Author
 
