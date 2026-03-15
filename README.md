@@ -1,12 +1,12 @@
 
 # 🛠️ Job Data Engineering Pipeline
 
-##Overview
+## Overview
 
-##This project demonstrates an end-to-end Data Engineering pipeline for collecting, transforming, and analyzing job postings.
+This project demonstrates an end-to-end Data Engineering pipeline for collecting, transforming, and analyzing job postings.
 All data is ingested via an API (no web scraping), cleaned, and loaded into a SQLite Data Warehouse following a star schema.
 ---
-
+![Project Image](image-project.png)
 
 
 ## 🗂️ Project Structure
